@@ -1,1 +1,2 @@
 new bugle commit
+second bugle commit
